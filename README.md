@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Burli9893
+- 👀 I’m interested in c++ and Javascript
+- 🌱 I’m currently learning  c++
+- 💞️ I’m looking to collaborate with everyone
+- 📫 insta: burlacu_razvan17
